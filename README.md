@@ -1,4 +1,10 @@
-Screenshots from the application 
+<b>Packages used</b> <br>
+-audioplayers <br>
+-bloc_pattern <br>
+-rxdart <br>
+-sqflite <br>
+-path_provider <br>
+<b>Screenshots from the application<b> 
   
 <table>
   <tr>
